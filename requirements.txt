@@ -1,0 +1,5 @@
+playsound
+vext.gi
+inflect
+Faker
+boto3
